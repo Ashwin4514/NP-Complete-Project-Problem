@@ -1,0 +1,3 @@
+/home/akmani/ece650-f23/akmani/a2/build/CMakeFiles/ece650-a2.dir
+/home/akmani/ece650-f23/akmani/a2/build/CMakeFiles/edit_cache.dir
+/home/akmani/ece650-f23/akmani/a2/build/CMakeFiles/rebuild_cache.dir

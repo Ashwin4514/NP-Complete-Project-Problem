@@ -1,0 +1,10 @@
+/home/akmani/ece650-f23/akmani/a3/build/CMakeFiles/rgen.dir
+/home/akmani/ece650-f23/akmani/a3/build/CMakeFiles/ece650-a2.dir
+/home/akmani/ece650-f23/akmani/a3/build/CMakeFiles/ece650-a3.dir
+/home/akmani/ece650-f23/akmani/a3/build/CMakeFiles/test.dir
+/home/akmani/ece650-f23/akmani/a3/build/CMakeFiles/edit_cache.dir
+/home/akmani/ece650-f23/akmani/a3/build/CMakeFiles/rebuild_cache.dir
+/home/akmani/ece650-f23/akmani/a3/build/CMakeFiles/list_install_components.dir
+/home/akmani/ece650-f23/akmani/a3/build/CMakeFiles/install.dir
+/home/akmani/ece650-f23/akmani/a3/build/CMakeFiles/install/local.dir
+/home/akmani/ece650-f23/akmani/a3/build/CMakeFiles/install/strip.dir
